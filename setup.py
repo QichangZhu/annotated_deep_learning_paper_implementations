@@ -1,4 +1,4 @@
-import setuptools
+import setuptools;
 
 with open("readme.md", "r") as f:
     long_description = f.read()
